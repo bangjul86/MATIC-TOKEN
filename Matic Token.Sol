@@ -487,11 +487,11 @@ contract MRC20 is BaseERC20 {
     }
 
     function name() public pure returns (string memory) {
-        return "Matic Token";
+        return "Dragon Token";
     }
 
     function symbol() public pure returns (string memory) {
-        return "MATIC";
+        return "DRAGON";
     }
 
     function decimals() public pure returns (uint8) {
